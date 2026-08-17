@@ -26,6 +26,9 @@ Enter y2: 8
 The distance between the two points is: 7.07
 
 ## Author/s
-Names: Josh Reighnell Pio Yoona Gene Memije Annabella Deiene Avelino
+Names: 
+       Josh Reighnell Pio 
+       Yoona Gene Memije 
+       Annabella Deiene Avelino
 
 Section: 8-Sampaguita
