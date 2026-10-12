@@ -31,8 +31,8 @@ The distance between the two points is: 7.07
 ## Author/s - These are the students that contributed to the creation of this GitHub Document including their grade and section.
 
 Names: 
-- Josh Reighnell Pio
+- Josh Reighnell Pio --- *This is the MAIN Contributor*
 - Yoona Gene Memije
 - Annabella Deiene Avelino
 
-Section: 8-Sampaguita
+Section: 8 - Sampaguita
