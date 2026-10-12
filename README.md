@@ -1,9 +1,9 @@
-# Distance Between Two Points Calculator - This is the title for the program.
+# Distance Between Two Points Calculator - This is the title of the program.
 
 ## Description - This introduces the program itself and its overall/main purpose and explains how the distance formula works.
 
-This program calculates the distance between two points (x1, y1) and (x2, y2) on a 2D plane
-using input values (x or y) and a math library (math.sqrt & pow).
+*This program calculates the distance between two points (x1, y1) and (x2, y2) on a 2D plane
+using input values (x or y) and a math library (math.sqrt & pow)*
 
 ## How to Run - These are the instructions given to the user so that they can run the program and for the program too run smoothly.
 
