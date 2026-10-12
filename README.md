@@ -5,7 +5,7 @@
 *This program calculates the distance between two points (x1, y1) and (x2, y2) on a 2D plane
 using input values (x or y) and a math library (math.sqrt & pow)*
 
-## How to Run - These are the instructions given to the user so that they can run the program and for the program too run smoothly.
+## How to Run - These are the instructions given to the user so that they can run the program and for the program to run smoothly.
 
 1. Open the program file in VS Code, Replit, Google Colab or even a local code interpreter like Programiz.
 2. Run the program.
